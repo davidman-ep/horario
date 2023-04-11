@@ -1,0 +1,28 @@
+2536101	Descubriendo la fisica	3	4	LW6-8
+2555131	Calculo Diferencial	3	4	MJ6-8
+2555101	Algebra y trigonometria	3	4	LW8-10
+2555121	Geometria vectorial	3	4	MJ8-10
+2598511	Informatia I	4	7	LW10-12;V6-9
+2538101	Ingles I	1	4	MJ10-12
+2537101	Vivamos la universidad	1	2	V10-12
+2536201	Fisica mecanica	3	4	LW6-8
+2555231	Calculo integral	3	4	MJ6-8
+2555221	Algebra lineal	3	4	LW8-10
+2599421	Introducion a la ing.	1	2	V6-8
+2598521 Informatica II	4	7	MJ8-10;V13-16
+2538201	Ingles II	1	4	MJ10-12
+2536302	Fisica de ondas	3	4	MJ20-22
+2555331 Calculo vectorial	3	4	WV6-8
+2598531	Ecuaciones diferenciales	3	4	MJ16-18
+2598532	Circuitos I	4	7	WV8-10;L6-9
+2599431	Probabilidad	3	4	LW20-22
+2538301	Ingles III	1	4	WV10-12
+2517362	Form. ciud y cons	1	2	L18-20
+2536311	Fisica de campos	3	4	MJ12-14
+2598541	Matematicas Especiales	3	4	MJ14-16
+2598544	Metodos numericos	3	4	WV6-8
+2598542	Circuitos II	4	7	WV8-10;L6-9
+2599441	Referenciacion Geo	1	3	L14-17
+2538401	Ingles IV	1	4	MJ6-8
+
+
